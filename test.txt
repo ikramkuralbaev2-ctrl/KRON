@@ -1,0 +1,1 @@
+Telefondan Termux orqali yozildi
